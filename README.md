@@ -1,5 +1,5 @@
 
-<img align="middle" alt="coding" width="600" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/my%20profile%20banner.gif">
+<img align="middle" alt="coding" width="1000" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/my%20profile%20banner.gif">
 
 
 <h1 align="center">Hi 👋, I'm Kranthi Kumar Nalla</h1>
