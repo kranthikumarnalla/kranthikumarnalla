@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kranthikumarnalla&label=Profile%20views&color=0e75b6&style=flat" alt="kranthikumarnalla" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kranthikumarnalla.my.canva.site/kranthi-interior-portfolio](https://kranthikumarnalla.my.canva.site/kranthi-interior-portfolio)
 
 - 📫 How to reach me **kranthinalla007@gmail.com**
 
