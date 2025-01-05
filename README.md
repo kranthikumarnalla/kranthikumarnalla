@@ -15,8 +15,6 @@
 </p>
 
 
-<p align="left"> <a href="https://www.sketchup.com/en/plans-and-pricing/sketchup-free" target="_blank" rel="noreferrer"> <img src="https://www.sketchup.com/en.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthikumarnalla&show_icons=true&locale=en&layout=compact" alt="kranthikumarnalla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthikumarnalla&show_icons=true&locale=en" alt="kranthikumarnalla" /></p>
