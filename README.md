@@ -1,5 +1,5 @@
 
-![logo](https://www.canva.com/design/DAGbTu-z5-g/1yuZYfvCaXXqg8kMPWyK1A/edit?utm_content=DAGbTu-z5-g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img align="middle" alt="coding" width="600" src="https://www.canva.com/design/DAGbTu-z5-g/1yuZYfvCaXXqg8kMPWyK1A/edit?utm_content=DAGbTu-z5-g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 
 <h1 align="center">Hi 👋, I'm Kranthi Kumar Nalla</h1>
