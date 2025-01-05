@@ -14,9 +14,3 @@
 <p align="left">
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kranthikumarnalla&show_icons=true&locale=en&layout=compact" alt="kranthikumarnalla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kranthikumarnalla&show_icons=true&locale=en" alt="kranthikumarnalla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthikumarnalla&" alt="kranthikumarnalla" /></p>
