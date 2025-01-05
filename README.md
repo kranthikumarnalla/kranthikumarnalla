@@ -2,8 +2,6 @@
 <img align="middle" alt="coding" width="1000" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/my%20profile%20banner.gif">
 
 
-<h1 align="center">Hi 👋, I'm Kranthi Kumar Nalla</h1>
-<h3 align="center">A passionate interior designer</h3>
 
 <img align="middle" alt="coding" width="400" src="https://i.pinimg.com/originals/c9/e3/11/c9e3119dceef904f5bf7e725b447c5f3.gif">
 
